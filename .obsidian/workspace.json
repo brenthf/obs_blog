@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023m4d5h16m29s44.md",
+                "file": "content/posts/2023m4d5h20m28s7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023m4d5h16m29s44.md",
+                "file": "content/posts/2023m4d5h20m28s7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023m4d5h16m29s44.md",
+                "file": "content/posts/2023m4d5h20m28s7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023m4d5h16m29s44.md"
+                "file": "content/posts/2023m4d5h20m28s7.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bd89086a72b4ad7",
+  "active": "8757a8ab6a344094",
   "lastOpenFiles": [
+    "IMG_20230402_123032.jpg",
+    "content/posts/2023m4d5h16m29s44.md",
+    "content/posts/2023m4d5h20m28s7.md",
     "themes/ananke/theme.toml",
     "themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
     "themes/ananke/static/images",
@@ -159,7 +162,6 @@
     "themes/ananke/resources/_gen/assets/css/ananke",
     "themes/ananke/resources/_gen/assets/css",
     "themes/ananke/resources/_gen/assets",
-    "themes/ananke/resources/_gen",
     "themes/ananke/layouts/partials/svg/tiktok.svg",
     "themes/ananke/layouts/partials/svg/new-window.svg",
     "themes/ananke/images/tn.png",
@@ -188,7 +190,6 @@
     "themes/ananke/LICENSE.md",
     "themes/ananke/CHANGELOG.md",
     "content/posts/2023-0405-1.md",
-    "content/posts/2023m4d5h16m29s44.md",
     "content/posts/my-first-post.md"
   ]
 }
