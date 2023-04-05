@@ -1,0 +1,39 @@
+{
+  "choices": [
+    {
+      "id": "3431ebc0-13d9-42ac-b06d-92066d50d6be",
+      "name": "New Blog",
+      "type": "Macro",
+      "command": false,
+      "macroId": "49e97007-0f6a-4ad6-86b0-1e6ef84769d9"
+    }
+  ],
+  "macros": [
+    {
+      "name": "New Blog",
+      "id": "49e97007-0f6a-4ad6-86b0-1e6ef84769d9",
+      "commands": [
+        {
+          "name": "NewBlog",
+          "type": "UserScript",
+          "id": "f34387ab-29d5-4bf6-813b-b13940129a01",
+          "path": "obs_scripts/NewBlog.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "0.18.2",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
