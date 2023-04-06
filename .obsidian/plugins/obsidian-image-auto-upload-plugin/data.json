@@ -1,9 +1,9 @@
 {
   "uploadByClipSwitch": true,
   "uploader": "PicGo",
-  "uploadServer": "http://127.0.0.1:36677/upload",
+  "uploadServer": "http://localhost:36677/upload",
   "picgoCorePath": "",
-  "workOnNetWork": false,
+  "workOnNetWork": true,
   "fixPath": false,
   "applyImage": true,
   "newWorkBlackDomains": "",
