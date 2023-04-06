@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b8af2b0dbd7efad",
+        "id": "8e3141a286d421de",
         "type": "tabs",
         "children": [
           {
-            "id": "11ecd91945ae9c03",
+            "id": "47f419b645e42a65",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,8 +123,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "11ecd91945ae9c03",
+  "active": "47f419b645e42a65",
   "lastOpenFiles": [
+    "content/posts/2023m4d5h20m28s7.md",
     "IMG_20230326_113821.jpg"
   ]
 }

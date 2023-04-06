@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31bf396655ac3c31",
+        "id": "e261a9ebccfacdc2",
         "type": "tabs",
         "children": [
           {
-            "id": "8757a8ab6a344094",
+            "id": "afe91b9e4ea3d4d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023m4d5h20m28s7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023m4d5h20m28s7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023m4d5h20m28s7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/2023m4d5h20m28s7.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8757a8ab6a344094",
+  "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "content/posts/2023m4d5h20m28s7.md",
     "IMG_20230326_113821.jpg",
     "IMG_20230402_123032.jpg",
     "content/posts/2023m4d5h16m29s44.md",
-    "content/posts/2023m4d5h20m28s7.md",
     "themes/ananke/theme.toml",
     "themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
     "themes/ananke/static/images",
@@ -170,7 +162,6 @@
     "themes/ananke/exampleSite/static/images/notebook.jpg",
     "themes/ananke/exampleSite/static/images/esmeralda.jpg",
     "themes/ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg",
-    "themes/ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg",
     "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "themes/ananke/exampleSite/content/fr/post/_index.md",
     "themes/ananke/exampleSite/content/en/post/chapter-6.md",
