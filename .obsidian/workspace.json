@@ -148,13 +148,16 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "content/posts/2023m4d5h16m29s44.md",
+    "content/posts/my-first-post.md",
+    "content/posts/博客自动发布测试.md",
+    "0b3fa818312fb3510098ca7d4aca4af1.jpg",
+    "content/posts/2023m4d5h20m28s7.md",
+    "IMG_20230402_123032.jpg",
+    "().md",
     "IMG_20230311_203634.jpg",
     "IMG_20230326_113821.jpg",
-    "content/posts/2023m4d5h16m29s44.md",
-    "content/posts/2023m4d5h20m28s7.md",
-    "().md",
     "IMG_20230326_113821 1.jpg",
-    "IMG_20230402_123032.jpg",
     "themes/ananke/theme.toml",
     "themes/ananke/static/images/gohugo-default-sample-hero-image.jpg",
     "themes/ananke/static/images",
@@ -170,8 +173,6 @@
     "themes/ananke/layouts/partials/svg/new-window.svg",
     "themes/ananke/images/tn.png",
     "themes/ananke/images/screenshot.png",
-    "themes/ananke/exampleSite/static/images/notebook.jpg",
-    "themes/ananke/exampleSite/static/images/esmeralda.jpg",
     "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "themes/ananke/exampleSite/content/fr/post/_index.md",
     "themes/ananke/exampleSite/content/en/post/chapter-6.md",
@@ -190,7 +191,6 @@
     "themes/ananke/README.md",
     "themes/ananke/LICENSE.md",
     "themes/ananke/CHANGELOG.md",
-    "content/posts/2023-0405-1.md",
-    "content/posts/my-first-post.md"
+    "content/posts/2023-0405-1.md"
   ]
 }
