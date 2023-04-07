@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe91b9e4ea3d4d3",
+  "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "themes/eureka/layouts/partials/comment.html",
+    "themes/eureka/layouts/partials/comment.html.cusdis.liuzhenyi",
     "content/posts/2023m4d5h16m29s44.md",
     "content/posts/my-first-post.md",
     "content/posts/博客自动发布测试.md",
-    "themes/eureka/layouts/partials/comment.html",
     "themes/eureka/layouts/partials/comment.html.official",
     "themes/eureka/layouts/partials/comment.html.spike",
     "content/posts/2023m4d5h20m28s7.md",
@@ -187,7 +188,6 @@
     "themes/eureka/exampleSite/content/homepage/vintage.md",
     "themes/eureka/exampleSite/content/homepage/pages.md",
     "themes/eureka/exampleSite/content/homepage/index.md",
-    "themes/eureka/exampleSite/content/homepage/experience.md",
     "themes/eureka/assets/images/icon.png",
     "themes/eureka/assets/images/hero-right.jpg",
     "themes/eureka/assets/images/hero-left.jpg",
