@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bd89086a72b4ad7",
+  "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "themes/eureka/layouts/partials/comment.html",
+    "themes/eureka/layouts/partials/comment.html.bak",
     "themes/eureka/layouts/partials/comment/commento.html.bak",
     "themes/eureka/layouts/partials/comment/cusdis.html",
     "assets/jsconfig.json",
@@ -159,8 +161,6 @@
     "config/_default/languages.yaml",
     "config/_default/config.yaml",
     "config/_default",
-    "config/params.yaml",
-    "config/menus.yaml",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
