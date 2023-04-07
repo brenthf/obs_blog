@@ -44,8 +44,7 @@ math:
 
 comment:
   # Options: disqus, commento, valine and utterances.
-  handler: cusdis
-
+  handler:
   # disqus:
   #   shortname:
 
