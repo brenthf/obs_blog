@@ -148,6 +148,7 @@
   },
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "themes/eureka/layouts/partials/comment/cusdis.html",
     "assets/jsconfig.json",
     "resources/_gen/images/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_3.png",
     "resources/_gen/images/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_32x32_fill_box_center_3.png",
@@ -160,7 +161,6 @@
     "config/params.yaml",
     "config/menus.yaml",
     "config/languages.yaml",
-    "config/config.yaml",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
