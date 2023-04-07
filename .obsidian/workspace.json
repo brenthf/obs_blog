@@ -148,6 +148,7 @@
   },
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "layouts/partials/comment/artalk.html",
     "layouts/partials/comment",
     "layouts/partials",
     "themes/eureka/theme.toml",
@@ -158,7 +159,6 @@
     "themes/eureka/resources/_gen/assets",
     "themes/eureka/resources/_gen",
     "themes/eureka/resources",
-    "themes/eureka/package.json",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
