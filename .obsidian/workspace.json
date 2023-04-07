@@ -149,6 +149,8 @@
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
     "themes/eureka/layouts/partials/comment.html",
+    "themes/eureka/layouts/partials/comment/artalk.html",
+    "themes/eureka/layouts/partials/comment/comment.html",
     "themes/eureka/layouts/partials/comment.html.cusdis.liuzhenyi",
     "content/posts/2023m4d5h16m29s44.md",
     "content/posts/my-first-post.md",
@@ -166,8 +168,6 @@
     "assets/jsconfig.json",
     "resources/_gen/images/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_3.png",
     "resources/_gen/images/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_32x32_fill_box_center_3.png",
-    "resources/_gen/images/images",
-    "config/_default/params.yaml",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
