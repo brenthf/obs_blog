@@ -11,12 +11,8 @@
             "id": "afe91b9e4ea3d4d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/博客自动发布测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/博客自动发布测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/博客自动发布测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/博客自动发布测试.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe91b9e4ea3d4d3",
+  "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "content/posts/2023m4d7h13m5s13.md",
+    "content/posts/new-comment.md",
+    "content/post/new-comment.md",
+    "content/post",
+    "content/posts/博客自动发布测试.md",
     "themes/eureka/layouts/partials/comment.html",
     "themes/eureka/layouts/partials/comment.html.bak",
     "themes/eureka/layouts/partials/comment/commento.html.bak",
@@ -159,8 +156,6 @@
     "config/_default/params.yaml",
     "config/_default/menus.yaml",
     "config/_default/languages.yaml",
-    "config/_default/config.yaml",
-    "config/_default",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
@@ -188,9 +183,6 @@
     "themes/eureka/assets/images/hero-right.jpg",
     "themes/eureka/assets/images/hero-left.jpg",
     "themes/eureka/archetypes/widgets/vintage.md",
-    "themes/eureka/archetypes/widgets/pages.md",
-    "themes/eureka/archetypes/widgets/experiences.md",
-    "themes/eureka/archetypes/widgets/about.md",
     "0b3fa818312fb3510098ca7d4aca4af1.jpg",
     "IMG_20230402_123032.jpg",
     "IMG_20230311_203634.jpg"
