@@ -172,6 +172,7 @@ function switchMode(mode) {
             window.matchMedia("(prefers-color-scheme: dark)").removeEventListener('change', switchDarkMode)
             icon = 'sun'
             document.getElementsByTagName('html')[0].classList.remove('dark')
+            Artalk.update({ darkMode: false })
             {{/*  Utterances  */}}
             {{- if $enableUtterances }}
             switchUtterancesTheme('github-light')
@@ -181,6 +182,7 @@ function switchMode(mode) {
             window.matchMedia("(prefers-color-scheme: dark)").removeEventListener('change', switchDarkMode)
             icon = 'moon'
             document.getElementsByTagName('html')[0].classList.add('dark')
+            Artalk.update({ darkMode: true })
             {{/*  Utterances  */}}
             {{- if $enableUtterances }}
             switchUtterancesTheme('github-dark')
