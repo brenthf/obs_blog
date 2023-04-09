@@ -1,23 +1,16 @@
-<!-- CSS --> <link 
-href="https://artalk.liuzhenyi.net/dist/Artalk.css" 
-<!-- JS --> <script 
-src="https://artalk.liuzhenyi.net/dist/Artalk.js"></script> 
 <script>
     let storageColorScheme = localStorage.getItem("lightDarkMode")
     {{- if eq .Site.Params.colorScheme "light" }}
     if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
         document.getElementsByTagName('html')[0].classList.add('dark')
-        Artalk.init({ darkMode: "true" })
     }
     {{- else if eq .Site.Params.colorScheme "dark" }}
     if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: light)").matches) || storageColorScheme == "Light") {
         document.getElementsByTagName('html')[0].classList.remove('dark')
-        Artalk.init({ darkMode: "false" })
     }
     {{- else }}
     if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
         document.getElementsByTagName('html')[0].classList.add('dark')
-        Artalk.init({ darkMode: "true" })
     }
     {{- end }}
 </script>
@@ -135,4 +128,3 @@ src="https://artalk.liuzhenyi.net/dist/Artalk.js"></script>
         {{- end }}
     });
 </script>
-<script async defer data-website-id="c16eda5d-591d-4fb5-91a6-4a9e3bce5abe" src="https://umami.spikespiegel.net/umami.js"></script>
