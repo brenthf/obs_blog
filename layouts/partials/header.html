@@ -1,7 +1,9 @@
-<!-- JS -->
-<script src="https://artalk.liuzhenyi.net/dist/Artalk.js"></script>
+<!-- CSS --> <link 
+href="https://artalk.liuzhenyi.net/dist/Artalk.css" 
+<!-- JS --> <script 
+src="https://artalk.liuzhenyi.net/dist/Artalk.js"></script> 
 <script>
-    let storageColorScheme = localStorage.getItem("lightDarkMode")
+rel="stylesheet">    let storageColorScheme = localStorage.getItem("lightDarkMode")
     {{- if eq .Site.Params.colorScheme "light" }}
     if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
         document.getElementsByTagName('html')[0].classList.add('dark')
