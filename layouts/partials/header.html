@@ -7,17 +7,17 @@ rel="stylesheet">    let storageColorScheme = localStorage.getItem("lightDarkMod
     {{- if eq .Site.Params.colorScheme "light" }}
     if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
         document.getElementsByTagName('html')[0].classList.add('dark')
-        Artalk.setDarkMode(true)
+        Artalk.init({ darkMode: "true" })
     }
     {{- else if eq .Site.Params.colorScheme "dark" }}
     if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: light)").matches) || storageColorScheme == "Light") {
         document.getElementsByTagName('html')[0].classList.remove('dark')
-        Artalk.setDarkMode(false)
+        Artalk.init({ darkMode: "false" })
     }
     {{- else }}
     if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
         document.getElementsByTagName('html')[0].classList.add('dark')
-        Artalk.setDarkMode(true)
+        Artalk.init({ darkMode: "true" })
     }
     {{- end }}
 </script>
