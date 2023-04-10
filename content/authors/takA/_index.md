@@ -3,7 +3,7 @@
 title: takA
 role:
 bio:
-avatar: ![IMG_0022](https://photos.liuzhenyi.net/images/68322be2318d943ee006c265b7381a7f.jpg)
+avatar: https://photos.liuzhenyi.net/images/68322be2318d943ee006c265b7381a7f.jpg
 
 organization:
   name:
