@@ -43,3 +43,8 @@ taxonomies:
 
 build:
   useResourceCacheWhen: always
+
+siteType: Person
+icon: 
+publisherName: 流光飞舞
+
