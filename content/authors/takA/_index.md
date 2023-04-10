@@ -3,7 +3,7 @@
 title: takA
 role:
 bio:
-avatar:
+avatar: ![IMG_0022](https://photos.liuzhenyi.net/images/68322be2318d943ee006c265b7381a7f.jpg)
 
 organization:
   name:
@@ -14,6 +14,6 @@ organization:
 # Then icon is github and iconPack is fab for this case.
 social:
   - icon:
-    iconPack:
-    url:
+    iconPack: <i class="fa-light fa-envelope"></i>
+    url: brent.liu@gmail.com
 ---
