@@ -1,5 +1,5 @@
 ---
-title: Pages
+title: 
 draft: false
 # Section you want to display
 section: posts
