@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md",
+                "file": "content/posts/博客自动发布测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md",
+                "file": "content/posts/博客自动发布测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md",
+                "file": "content/posts/博客自动发布测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md"
+                "file": "content/posts/博客自动发布测试.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "content/posts/my-first-post.md",
+    "content/posts/2023m4d10h11m49s14.md",
+    "content/posts/2023m4d5h20m28s7.md",
+    "content/posts/2023-0405-1.md",
+    "content/posts/2023m4d5h16m29s44.md",
     "content/authors/takA/_index.md",
     "resources/_gen/images/images/icon_hub05b52ab82f3a21a579fbc0d60846eaf_66058_180x180_fill_box_center_3.png",
     "resources/_gen/images/images/icon_hub05b52ab82f3a21a579fbc0d60846eaf_66058_32x32_fill_box_center_3.png",
     "assets/images/icon.png",
     "assets/images",
-    "content/posts/2023m4d10h11m49s14.md",
     "IMG_20230311_203634.jpg",
     "IMG_0022.jpg",
     "content/posts/博客自动发布测试.md",
@@ -187,9 +191,6 @@
     "themes/eureka/exampleSite/content/posts/_index.md",
     "themes/eureka/exampleSite/content/homepage/vintage.md",
     "themes/eureka/exampleSite/content/homepage/pages.md",
-    "themes/eureka/exampleSite/content/homepage/index.md",
-    "themes/eureka/exampleSite/content/homepage/experience.md",
-    "themes/eureka/exampleSite/content/homepage/about.md",
     "themes/eureka/assets/images/icon.png",
     "themes/eureka/assets/images/hero-right.jpg",
     "themes/eureka/assets/images/hero-left.jpg"
