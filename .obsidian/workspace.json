@@ -148,6 +148,8 @@
   },
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "content/homepage/index.md",
+    "content/homepage",
     "layouts/partials/header.html",
     "assets/js/eureka.js",
     "assets/js",
@@ -157,8 +159,6 @@
     "layouts/partials/comment",
     "layouts/partials",
     "themes/eureka/theme.toml",
-    "themes/eureka/resources/_gen/assets/css/css/eureka.css_59122205213644db2a335025f85b41bf.json",
-    "themes/eureka/resources/_gen/assets/css/css/eureka.css_59122205213644db2a335025f85b41bf.content",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
