@@ -1,5 +1,8 @@
 baseURL: https://blog.liuzhenyi.net
 title: 流光飞舞
+siteType: Person
+icon: https://photos.liuzhenyi.net/images/a7ce0927bf38387fe98b9369cb0847c0.th.png
+publisherName: 流光飞舞
 
 # Uncomment when not installing with Hugo Modules
 theme: eureka
@@ -43,8 +46,4 @@ taxonomies:
 
 build:
   useResourceCacheWhen: always
-
-siteType: Person
-icon: https://photos.liuzhenyi.net/images/a7ce0927bf38387fe98b9369cb0847c0.th.png
-publisherName: 流光飞舞
 
