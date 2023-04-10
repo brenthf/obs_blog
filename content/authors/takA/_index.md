@@ -13,7 +13,7 @@ organization:
 # You can get similar results like this <i class="fab fa-github"></i> after searching.
 # Then icon is github and iconPack is fab for this case.
 social:
-  - icon:
-    iconPack: <i class="fa-light fa-envelope"></i>
+  - icon: <i class="fa-light fa-envelope"></i>
+    iconPack:
     url: brent.liu@gmail.com
 ---
