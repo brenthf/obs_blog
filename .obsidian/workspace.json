@@ -148,6 +148,7 @@
   },
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "content/homepage/pages.md",
     "content/homepage/index.md",
     "content/homepage",
     "layouts/partials/header.html",
@@ -188,7 +189,6 @@
     "themes/eureka/archetypes/docs/_index.md",
     "themes/eureka/archetypes/widgets/vintage.md",
     "themes/eureka/archetypes/widgets/pages.md",
-    "themes/eureka/archetypes/widgets/experiences.md",
     "resources/_gen/images/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_3.png",
     "resources/_gen/images/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_32x32_fill_box_center_3.png",
     "0b3fa818312fb3510098ca7d4aca4af1.jpg",
