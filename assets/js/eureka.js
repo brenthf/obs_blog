@@ -201,12 +201,14 @@ function switchMode(mode) {
 function switchDarkMode(e) {
     if (e.matches) {
         document.getElementsByTagName('html')[0].classList.add('dark')
+        Artalk.update({ darkMode: true })
         {{/*  Utterances  */}}
         {{- if $enableUtterances }}
         switchUtterancesTheme('github-dark')
         {{- end }}
     } else {
         document.getElementsByTagName('html')[0].classList.remove('dark')
+        Artalk.update({ darkMode: false })
         {{/*  Utterances  */}}
         {{- if $enableUtterances }}
         switchUtterancesTheme('github-light')
