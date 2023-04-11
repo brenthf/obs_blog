@@ -8,3 +8,6 @@ main:
   - name: 文档
     url: /docs/
     weight: 3
+  - name: RSS
+    url: /index.xml
+    weight: 4
