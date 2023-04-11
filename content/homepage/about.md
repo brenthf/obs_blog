@@ -2,15 +2,15 @@
 title: About
 draft: false
 role:
-avatar:
+avatar: https://photos.liuzhenyi.net/images/02f4b1302ec8d31d8c88e193396f6fd4.png
 bio:
 organization:
   name:
   url:
 social:
-  - icon:
-    iconPack:
-    url:
+  - icon: envelope
+    iconPack: far
+    url: mailto:me@liuzhenyi.net
 
 weight:
 widget:
