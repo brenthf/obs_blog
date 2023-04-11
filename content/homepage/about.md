@@ -12,7 +12,7 @@ social:
     iconPack: far
     url: mailto:me@liuzhenyi.net
   - icon: rss
-    iconPack: fal
+    iconPack: fas
     url: /index.xml
 
 weight:
