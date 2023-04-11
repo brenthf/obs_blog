@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/博客自动发布测试.md",
+                "file": "content/posts/2023m4d10h11m49s14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/博客自动发布测试.md",
+                "file": "content/posts/2023m4d10h11m49s14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/博客自动发布测试.md",
+                "file": "content/posts/2023m4d10h11m49s14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/博客自动发布测试.md"
+                "file": "content/posts/2023m4d10h11m49s14.md"
               }
             }
           }
@@ -148,19 +148,22 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "content/posts/博客自动发布测试.md",
+    "content/posts/2023m4d5h16m29s44.md",
+    "content/authors/Akat/_index.md",
+    "c29185a9f6e78652fa396ec9461d9c1f.jpeg",
+    "content/authors/takA/_index.md",
+    "content/authors/Akat",
     "content/posts/my-first-post.md",
     "content/posts/2023m4d10h11m49s14.md",
     "content/posts/2023m4d5h20m28s7.md",
     "content/posts/2023-0405-1.md",
-    "content/posts/2023m4d5h16m29s44.md",
-    "content/authors/takA/_index.md",
     "resources/_gen/images/images/icon_hub05b52ab82f3a21a579fbc0d60846eaf_66058_180x180_fill_box_center_3.png",
     "resources/_gen/images/images/icon_hub05b52ab82f3a21a579fbc0d60846eaf_66058_32x32_fill_box_center_3.png",
     "assets/images/icon.png",
     "assets/images",
     "IMG_20230311_203634.jpg",
     "IMG_0022.jpg",
-    "content/posts/博客自动发布测试.md",
     "content/authors/takA",
     "content/authors",
     "content/homepage/pages.md",
@@ -171,7 +174,6 @@
     "assets/js",
     "layouts/partials/header.html.bak",
     "layouts/partials/custom-head.html",
-    "layouts/partials/comment/artalk.html",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
@@ -189,10 +191,7 @@
     "themes/eureka/exampleSite/content/posts/emoji-support.md",
     "themes/eureka/exampleSite/content/posts/diagram-support.md",
     "themes/eureka/exampleSite/content/posts/_index.md",
-    "themes/eureka/exampleSite/content/homepage/vintage.md",
-    "themes/eureka/exampleSite/content/homepage/pages.md",
     "themes/eureka/assets/images/icon.png",
-    "themes/eureka/assets/images/hero-right.jpg",
-    "themes/eureka/assets/images/hero-left.jpg"
+    "themes/eureka/assets/images/hero-right.jpg"
   ]
 }
