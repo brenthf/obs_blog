@@ -14,6 +14,6 @@ organization:
 # Then icon is github and iconPack is fab for this case.
 social:
   - icon: envelope
-    iconPack: fas
+    iconPack: far
     url: mailto:brent.liu@gmail.com
 ---
