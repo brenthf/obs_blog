@@ -1,9 +1,9 @@
 ---
-title: 与有情人 做快乐事 别问是劫是缘
+title: 流光飞舞
 draft: false
 role:
 avatar: https://photos.liuzhenyi.net/images/02f4b1302ec8d31d8c88e193396f6fd4.png
-bio:
+bio: 与有情人 做快乐事 别问是劫是缘
 organization:
   name:
   url:
@@ -11,6 +11,9 @@ social:
   - icon: envelope
     iconPack: far
     url: mailto:me@liuzhenyi.net
+  - icon: rss
+    iconPack: fal
+    url: /index.xml
 
 weight:
 widget:
