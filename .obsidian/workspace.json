@@ -148,6 +148,7 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "layouts/rss.xml",
     "content/about.md",
     "content/homepage/about.md",
     "content/posts/2023m4d10h11m49s14.md",
@@ -191,7 +192,6 @@
     "themes/eureka/exampleSite/content/posts/markdown-syntax.md",
     "themes/eureka/exampleSite/content/posts/featured-image.md",
     "themes/eureka/exampleSite/content/posts/emoji-support.md",
-    "themes/eureka/exampleSite/content/posts/diagram-support.md",
     "themes/eureka/assets/images/icon.png",
     "themes/eureka/assets/images/hero-right.jpg"
   ]
