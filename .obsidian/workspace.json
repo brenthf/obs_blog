@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md",
+                "file": "content/homepage/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md",
+                "file": "content/homepage/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md",
+                "file": "content/homepage/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023m4d10h11m49s14.md"
+                "file": "content/homepage/about.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "content/about.md",
+    "content/homepage/about.md",
+    "content/posts/2023m4d10h11m49s14.md",
     "content/posts/博客自动发布测试.md",
     "content/posts/2023m4d5h16m29s44.md",
     "content/authors/Akat/_index.md",
@@ -155,7 +158,6 @@
     "content/authors/takA/_index.md",
     "content/authors/Akat",
     "content/posts/my-first-post.md",
-    "content/posts/2023m4d10h11m49s14.md",
     "content/posts/2023m4d5h20m28s7.md",
     "content/posts/2023-0405-1.md",
     "resources/_gen/images/images/icon_hub05b52ab82f3a21a579fbc0d60846eaf_66058_180x180_fill_box_center_3.png",
@@ -190,7 +192,6 @@
     "themes/eureka/exampleSite/content/posts/featured-image.md",
     "themes/eureka/exampleSite/content/posts/emoji-support.md",
     "themes/eureka/exampleSite/content/posts/diagram-support.md",
-    "themes/eureka/exampleSite/content/posts/_index.md",
     "themes/eureka/assets/images/icon.png",
     "themes/eureka/assets/images/hero-right.jpg"
   ]
