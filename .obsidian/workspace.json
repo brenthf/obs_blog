@@ -148,6 +148,8 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "layouts/partials/components/summary-card.html",
+    "layouts/partials/components",
     "content/authors/me/_index.md",
     "content/homepage/index.md",
     "content/homepage/pages.md",
@@ -177,7 +179,6 @@
     "content/homepage",
     "layouts/partials/header.html",
     "assets/js/eureka.js",
-    "assets/js",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
@@ -191,7 +192,6 @@
     "themes/eureka/exampleSite/content/posts/placeholder-text.md",
     "themes/eureka/exampleSite/content/posts/math-support.md",
     "themes/eureka/exampleSite/content/posts/markdown-syntax.md",
-    "themes/eureka/exampleSite/content/posts/featured-image.md",
     "themes/eureka/assets/images/icon.png",
     "themes/eureka/assets/images/hero-right.jpg"
   ]
