@@ -26,9 +26,9 @@ widget:
     color:
     image:
     # Options: auto, cover and contain. Default is auto.
-    size: cover
+    size:
     # Options: center, top, right, bottom, left.
-    position: top
+    position:
     # Options: fixed, local, scroll.
     attachment: 
 ---
