@@ -9,8 +9,7 @@ theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2023 <a href="https://blog.liuzhenyi.net/">Akat</a> and <a
-  href="https://blog.liuzhenyi.net/">takA</a>
+  &copy; 2023 me@liuzhenyi.net
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75

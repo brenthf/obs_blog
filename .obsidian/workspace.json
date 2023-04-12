@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/homepage/pages.md",
+                "file": "content/homepage/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/homepage/pages.md",
+                "file": "content/homepage/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/homepage/pages.md",
+                "file": "content/homepage/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/homepage/pages.md"
+                "file": "content/homepage/about.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "content/homepage/pages.md",
     "content/homepage/about.md",
     "data/styles/default.yaml",
     "data/styles",
@@ -155,7 +156,6 @@
     "layouts/partials/components",
     "content/authors/me/_index.md",
     "content/homepage/index.md",
-    "content/homepage/pages.md",
     "content/authors/takA/_index.md",
     "content/authors/Akat/_index.md",
     "content/authors/me",

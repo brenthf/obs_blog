@@ -8,12 +8,9 @@ organization:
   name:
   url:
 social:
-  - icon: envelope
-    iconPack: far
-    url: mailto:me@liuzhenyi.net
-  - icon: rss
-    iconPack: fas
-    url: /index.xml
+  - icon:
+    iconPack:
+    url:
 
 weight:
 widget:
