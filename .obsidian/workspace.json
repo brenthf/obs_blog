@@ -148,6 +148,8 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "data/styles/default.yaml",
+    "data/styles",
     "layouts/partials/components/summary-card.html",
     "layouts/partials/components",
     "content/authors/me/_index.md",
@@ -177,8 +179,6 @@
     "content/authors/takA",
     "content/authors",
     "content/homepage",
-    "layouts/partials/header.html",
-    "assets/js/eureka.js",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
