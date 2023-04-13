@@ -167,8 +167,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "821aca33a880b9c7",
+  "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "layouts/partials/components/summary-plain.html",
     "content/posts/2023m4d10h11m49s14.md",
     "content/posts/Lexile.md",
     "Untitled.canvas",
