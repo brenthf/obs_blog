@@ -148,6 +148,7 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
+    "layouts/partials/custom-head.html",
     "content/homepage/about.md",
     "content/posts/Lexile.md",
     "content/homepage/pages.md",
@@ -191,7 +192,6 @@
     "themes/eureka/exampleSite/content/docs/example-doc/_index.md",
     "themes/eureka/exampleSite/content/posts/placeholder-text.md",
     "themes/eureka/exampleSite/content/posts/math-support.md",
-    "themes/eureka/exampleSite/content/posts/markdown-syntax.md",
     "themes/eureka/assets/images/icon.png",
     "themes/eureka/assets/images/hero-right.jpg"
   ]
