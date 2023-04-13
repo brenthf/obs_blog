@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e261a9ebccfacdc2",
+        "id": "991920960762e797",
         "type": "tabs",
         "children": [
           {
-            "id": "afe91b9e4ea3d4d3",
+            "id": "ae613e1bbb7b3b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e809e4be0ab9980c"
+          }
+        ]
+      },
+      {
+        "id": "4bcf0d6b3b38909e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821aca33a880b9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Lexile.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "e809e4be0ab9980c"
           }
         ]
       }
@@ -143,14 +163,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "afe91b9e4ea3d4d3",
+  "active": "821aca33a880b9c7",
   "lastOpenFiles": [
+    "content/posts/2023m4d10h11m49s14.md",
+    "content/posts/Lexile.md",
+    "Untitled.canvas",
     "layouts/partials/custom-head.html",
     "content/homepage/about.md",
-    "content/posts/Lexile.md",
     "content/homepage/pages.md",
     "data/styles/default.yaml",
     "data/styles",
@@ -164,7 +187,6 @@
     "content/about.md",
     "content/homepage/vintage.md",
     "content/posts/2023m4d5h20m28s7.md",
-    "content/posts/2023m4d10h11m49s14.md",
     "content/posts/2023m4d5h16m29s44.md",
     "layouts/rss.xml",
     "content/posts/博客自动发布测试.md",
@@ -179,7 +201,6 @@
     "IMG_20230311_203634.jpg",
     "IMG_0022.jpg",
     "content/authors/takA",
-    "content/authors",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
