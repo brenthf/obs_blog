@@ -169,6 +169,7 @@
   },
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "layouts/partials/components/summary-list-card.html",
     "layouts/partials/components/summary-plain.html",
     "content/posts/2023m4d10h11m49s14.md",
     "content/posts/Lexile.md",
@@ -201,7 +202,6 @@
     "assets/images",
     "IMG_20230311_203634.jpg",
     "IMG_0022.jpg",
-    "content/authors/takA",
     "themes/eureka/images/tn.png",
     "themes/eureka/images/screenshot.png",
     "themes/eureka/exampleSite/content/docs/example-doc/nested-chapter/chapter-2.md",
