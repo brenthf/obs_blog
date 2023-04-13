@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3141a286d421de",
+        "id": "a37c6055d16a294c",
         "type": "tabs",
         "children": [
           {
-            "id": "47f419b645e42a65",
+            "id": "6c05c1dfb8981455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Lexile.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/posts/Lexile.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "content/posts/Lexile.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "content/posts/Lexile.md"
+          }
         }
       }
     ],
@@ -123,8 +131,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47f419b645e42a65",
+  "active": "6c05c1dfb8981455",
   "lastOpenFiles": [
+    "content/posts/Lexile.md",
     "content/posts/2023m4d5h20m28s7.md",
     "IMG_20230326_113821.jpg"
   ]
