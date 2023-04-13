@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/homepage/about.md",
+                "file": "content/posts/Lexile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/homepage/about.md",
+                "file": "content/posts/Lexile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/homepage/about.md",
+                "file": "content/posts/Lexile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/homepage/about.md"
+                "file": "content/posts/Lexile.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "afe91b9e4ea3d4d3",
   "lastOpenFiles": [
-    "content/homepage/pages.md",
     "content/homepage/about.md",
+    "content/posts/Lexile.md",
+    "content/homepage/pages.md",
     "data/styles/default.yaml",
     "data/styles",
     "layouts/partials/components/summary-card.html",
