@@ -169,6 +169,7 @@
   },
   "active": "8bd89086a72b4ad7",
   "lastOpenFiles": [
+    "layouts/partials/utils/get-summary.html",
     "layouts/partials/components/summary-list-card.html",
     "layouts/partials/utils/get-featured.html",
     "layouts/partials/utils",
@@ -184,7 +185,6 @@
     "data/styles/default.yaml",
     "data/styles",
     "layouts/partials/components/summary-card.html",
-    "layouts/partials/components",
     "content/authors/me/_index.md",
     "content/homepage/index.md",
     "content/authors/takA/_index.md",
